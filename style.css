@@ -330,6 +330,7 @@
         
 
      }
+     
      .flower-section
      {
 
@@ -337,6 +338,7 @@
     height:auto;
     flex-direction: column;
     margin-top: 10px;
+    padding-inline:30px;
 
     
      }
